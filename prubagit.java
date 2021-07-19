@@ -15,5 +15,6 @@ public class pruebagit
       nombre = JOptionPane.showInputDialog(null,"Ingresa algo");
       System.out.println("Dime tu nombre2");
       nombre = entrada.next();
+
   }
 }
