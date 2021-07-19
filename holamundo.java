@@ -5,6 +5,7 @@ public class hola
   //Objetos
   Scanner entrada = new Scanner(System.in)
   {
-
+      //Variables
+      int h = 10;
   }
 }
